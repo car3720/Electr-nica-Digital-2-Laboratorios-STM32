@@ -1,0 +1,9 @@
+../Core/Src/lab_audio.c:25:17:timer_clock_apb1	40	static
+../Core/Src/lab_audio.c:34:13:configure_timers	16	static
+../Core/Src/lab_audio.c:52:13:stop_audio	8	static
+../Core/Src/lab_audio.c:62:13:start_audio	16	static
+../Core/Src/lab_audio.c:79:6:LAB_Audio_Init	8	static
+../Core/Src/lab_audio.c:86:6:LAB_Audio_Task	40	static,ignoring_inline_asm
+../Core/Src/lab_audio.c:99:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/lab_audio.c:113:16:amplify_sample	24	static
+../Core/Src/lab_audio.c:132:6:HAL_TIM_PeriodElapsedCallback	40	static
